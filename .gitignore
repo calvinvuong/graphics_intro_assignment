@@ -31,3 +31,11 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Image files
+*.ppm
+*.png
+
+# Backup files
+*~
+*#
